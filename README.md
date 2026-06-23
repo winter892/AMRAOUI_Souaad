@@ -1,42 +1,23 @@
-# 👋 Bonjour, je suis Amraoui Souaâd
+# Bonjour, je suis Amraoui Souaâd
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Java&center=true&size=25">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer&center=true&size=25">
 
 </div>
 
 ---
 
-## 👩‍💻 À propos de moi
+## À propos de moi
 
 🎓 Étudiante en **1ère année Cycle d'Ingénieur - Développement Logiciel Applicatif (DLA)**  
 📍 École Nationale des Sciences Appliquées d'Agadir  
+  Diplômée en **Génie Informatique** de l'École Supérieure de Technologie de Béni Mellal.
+  Passionnée par le développement logiciel, la conception d'applications web modernes et les nouvelles technologies.
+  ---
 
-Diplômée en **Génie Informatique** de l'École Supérieure de Technologie de Béni Mellal.
 
-Passionnée par le développement logiciel, la conception d'applications web modernes et les nouvelles technologies.
-
-🚀 Je travaille principalement sur des applications **Full Stack** avec React.js, Spring Boot et MySQL.
-
----
-
-## 🎓 Formation
-
-- **2025 - Aujourd'hui**
-  - Cycle d'ingénieur - Développement Logiciel Applicatif (DLA)
-  - ENSA Agadir
-
-- **2023 - 2025**
-  - Diplôme Génie Informatique
-  - EST Béni Mellal
-
-- **2021 - 2022**
-  - Baccalauréat Physique & Chimie - Option Français
-
----
-
-# 🛠️ Technologies & Outils
+# Technologies & Outils
 
 ### Languages
 <p>
@@ -58,7 +39,8 @@ Passionnée par le développement logiciel, la conception d'applications web mod
 
 ### Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,maven,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </p>
 
 
