@@ -38,89 +38,30 @@
 
 
 ### Database & Tools
+### Database & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,maven,docker"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </p>
 
-
----
-
-# 🚀 Projets réalisés
-
-
-## 🛒 Site E-commerce
-
-**Stage d'initiation - Bureau d'études**
-
-Technologies :
-`PHP` `HTML` `CSS` `MySQL`
-
-Description :
-
-> Développement d'une plateforme e-commerce avec gestion des produits, opérations CRUD et système d'authentification.
+![PLSQL](https://img.shields.io/badge/PL%2FSQL-Oracle-red?style=for-the-badge&logo=oracle)
 
 
 ---
-
-## 🖥️ Application Desktop Java
-
-Technologies :
-
-`Java` `Swing` `MySQL`
-
-Description :
-
-> Création d'une application de gestion avec interface graphique.
-> Architecture basée sur le modèle MVC pour une meilleure organisation.
-
-
----
-
-## 🎓 Plateforme de Suivi des Projets Académiques
-
-Projet de Fin d'Année
-
-Technologies :
-
-`Spring Boot` `React.js` `MySQL` `JWT`
-
-Fonctionnalités :
-
-- Gestion étudiants / encadrants / administrateurs
-- Gestion des tâches et livrables
-- Notifications
-- Statistiques
-- Authentification sécurisée JWT
-
-
----
-
-## 🏦 Supervision Encaissement Multi-Banques
-
-Stage CNSS (2 mois)
-
-Technologies :
-
-`PHP` `React.js` `TailwindCSS` `MySQL`
-
-Description :
-
-> Application web permettant le suivi des fichiers d'encaissement :
-> affichage, filtres dynamiques, modification des statuts, export Excel et impression.
-
-
----
-
-# 📊 GitHub Stats
-
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winter892&theme=tokyonight"/>
 
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winter892&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=winter892&theme=tokyonight"/>
 
 </div>
 
