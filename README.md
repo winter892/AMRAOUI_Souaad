@@ -49,31 +49,21 @@
 
 
 ---
-# 📊 GitHub Statistics
+
+#  GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winter892&theme=tokyonight"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winter892&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=winter892&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winter892&layout=compact&theme=tokyonight"/>
 
 </div>
 
 
----
 
-# 📫 Contact
 
-LinkedIn : ajoute ton lien ici
 
-Email : ajoute ton email ici
-
+<br>
 
 ---
 
